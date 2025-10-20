@@ -1,0 +1,5 @@
+{
+  "name": "React E-Commerce Store",
+  "description": "A simple e-commerce store application built with React, TypeScript, and Tailwind CSS. It features product listings, a shopping cart, and a mock checkout process.",
+  "requestFramePermissions": []
+}
